@@ -1,26 +1,26 @@
 [
-   {
-    "name": "Dean martin",
-    "file": "samples/Stairs Drum Loop SOUND Effect.mp3",
-    "bpm": "100",
-    "loop": "2m",
-    "grainSize": 0.04,
-    "overlap": 0.01
-  },
-  {
-    "name": "Dean Martin",
-    "file": "samples/deanmartin.mp3",
-    "bpm": "120",
-    "loop": "2m"
-    "grainSize": 0.04,
-    "overlap": 0.01
-  },
-  {
-    "name": "milesdavis",
-    "file": "samples/milesdavis baby beginning.mp3",
-    "bpm": "80",
-    "loop": "2m"
-    "grainSize": 0.04,
-    "overlap": 0.01
-  }
+ {
+  "name": "Drums",
+  "file": "samples/Stairs_Drum_Loop_SOUND_Effect.mp3",
+  "bpm": "100",
+  "loop": "1m",
+  "grain": 0.04,
+  "overlap": 0.01
+ },
+ {
+  "name": "DeanMartin",
+  "file": "samples/deanmartin.mp3",
+  "bpm": "100",
+  "loop": "1m",
+  "grain": "0.004",
+  "overlap": 0.01
+ },
+ {
+  "name": "MilesDavis",
+  "file": "samples/milesdavis_baby_beginning.mp3",
+  "bpm": 120,
+  "loop": "1m",
+  "grain": 0.04,
+  "overlap": 0.01
+ }
 ]
