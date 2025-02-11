@@ -1,6 +1,6 @@
 [
    {
-    "name": "Dean martin,
+    "name": "Dean martin",
     "file": "samples/Stairs Drum Loop SOUND Effect.mp3",
     "bpm": "100",
     "loop": "2m",
@@ -22,4 +22,5 @@
     "loop": "2m"
     "grainSize": 0.04,
     "overlap": 0.01
+  }
 ]
