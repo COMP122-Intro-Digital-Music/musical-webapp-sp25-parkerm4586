@@ -1,7 +1,7 @@
 [
  {
   "name": "Drums",
-  "file": "samples/Stairs Drum Loop SOUND_Effect.mp3",
+  "file": "samples/Stairs_Drum_Loop_SOUND_Effect.mp3",
   "bpm": "100",
   "loop": "1m",
   "grain": 0.04,
@@ -17,7 +17,7 @@
  },
  {
   "name": "MilesDavis",
-  "file": "samples/milesdavis baby beginning.mp3",
+  "file": "samples/milesdavis_baby_beginning.mp3",
   "bpm": 120,
   "loop": "1m",
   "grain": 0.04,
