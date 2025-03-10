@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "name": "donkeykong",
+    "type": "Synth",
+    "settings": {
+      "volume": -15.999999999999998,
+      "detune": -19,
+      "portamento": "0.9",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "linear",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fattriangle",
+        "count": 3,
+        "spread": 20
+      }
+    }
+  },
+  {
+    "name": "donkeykong2",
+    "type": "Synth",
+    "settings": {
+      "volume": -32.99999999999999,
+      "detune": 619,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.185",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1.5",
+        "releaseCurve": "exponential",
+        "sustain": "0.905"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 3,
+        "spread": 20
+      }
+    }
+  }
+]
