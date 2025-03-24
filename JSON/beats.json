@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "whitenoise",
+    "pitch": "D4",
+    "pattern": "100000"
+  },
+  {
+    "name": "shortkick",
+    "pitch": "E4",
+    "pattern": "1000"
+  },
+  {
+    "name": "longkick",
+    "pitch": "B3",
+    "pattern": "10000000"
+  },
+  {
+    "name": "hihatopen",
+    "pitch": "F#4",
+    "pattern": "10"
+  }
+]
